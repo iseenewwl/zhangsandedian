@@ -1,7 +1,7 @@
 import mdItCustomAttrs from "markdown-it-custom-attrs";
 import {defineConfig} from "vitepress";
 export default defineConfig({
-	base: "/home",//部署到GitHub Pages时的仓库名
+	base: "/zhangsandedian/",//部署到GitHub Pages时的仓库名
 	title: "张三的店",
 	lang: "zh-CN",
 	description: "张三的店",
